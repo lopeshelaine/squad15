@@ -1,5 +1,4 @@
-# Squad-15
-Projeto Vitaliza Mulher
+# Projeto Vitaliza Mulher
 
 ## 📌 Descrição
 Projeto: Saúde da Mulher – Plataforma de Conscientização e Apoio
